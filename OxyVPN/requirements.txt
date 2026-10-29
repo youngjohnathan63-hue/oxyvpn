@@ -1,0 +1,2 @@
+# OxyVPN uses only the Python standard library.
+# Python 3.8+ required, with tkinter.
